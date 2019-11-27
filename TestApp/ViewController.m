@@ -22,6 +22,7 @@
     [test getString:@"a" b:@"b"];
     NSLog(@"test......");
     NSLog(@"test2");
+    NSLog(@"test3");
     
     // Do any additional setup after loading the view.
 }
