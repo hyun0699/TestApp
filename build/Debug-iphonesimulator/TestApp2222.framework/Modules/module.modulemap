@@ -1,0 +1,6 @@
+framework module TestApp2222 {
+  umbrella header "TestApp2222.h"
+
+  export *
+  module * { export * }
+}
