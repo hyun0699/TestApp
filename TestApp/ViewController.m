@@ -23,6 +23,7 @@
     NSLog(@"test......");
     NSLog(@"test2");
     NSLog(@"test3");
+    NSLog(@"test4");
     
     // Do any additional setup after loading the view.
 }
