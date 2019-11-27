@@ -46,8 +46,6 @@
 		32B5B245238D2B950001948D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		32B5B246238D2B950001948D /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		32B5B24E238D2BDB0001948D /* TestFramework.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = TestFramework.framework; path = TestApp/TestFramework.framework; sourceTree = "<group>"; };
-		32E04C9E238D335E0060B2AD /* TestApp2222.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TestApp2222.h; sourceTree = "<group>"; };
-		32E04C9F238D335E0060B2AD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,7 +64,6 @@
 			isa = PBXGroup;
 			children = (
 				32B5B233238D2B930001948D /* TestApp */,
-				32E04C9D238D335E0060B2AD /* TestApp2222 */,
 				32B5B232238D2B930001948D /* Products */,
 				32B5B24D238D2BDB0001948D /* Frameworks */,
 			);
@@ -104,15 +101,6 @@
 				32B5B24E238D2BDB0001948D /* TestFramework.framework */,
 			);
 			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		32E04C9D238D335E0060B2AD /* TestApp2222 */ = {
-			isa = PBXGroup;
-			children = (
-				32E04C9E238D335E0060B2AD /* TestApp2222.h */,
-				32E04C9F238D335E0060B2AD /* Info.plist */,
-			);
-			path = TestApp2222;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
